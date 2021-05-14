@@ -2,7 +2,7 @@
 Selenium tests samples for WebdriverIO website
 
 
-To run, you will need:
+To run the tests you will need the following software:
   1. Chrome
   2. chromedriver (in your path)
   3. Python 3.7+
