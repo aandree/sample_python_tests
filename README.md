@@ -1,6 +1,5 @@
 # webdriverio_tests
-Selenium tests samples for WebdriverIO website
-
+Selenium test samples using Python and Python-POM
 
 To run the tests you will need the following software:
   1. Chrome
